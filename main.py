@@ -2,7 +2,7 @@
 #ask for user input
 passw = str(input("input a password: "))
 
-passs = False 
+passw = False 
 
 #lc uc stuff 
 count = 0 
@@ -11,7 +11,6 @@ count2 = 0
 
 #special ch stuff up here for neatness
 char = "!,@,#,$,%,^,&,*,(,-,=, ;,',:,,,.,/,<,>,?"
-
 num = "1,2,3,4,5,6,7,8,9,0"
 
 
